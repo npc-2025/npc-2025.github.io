@@ -1,0 +1,14 @@
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {
+  background-image: url("logo_madrid.jpg");
+  background-size: cover;
+  color: #fffff;
+  height:500px;
+}
+
+.small-text {
+  font-size: 0.85rem;
+}
