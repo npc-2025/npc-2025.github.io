@@ -13,7 +13,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-/*  aspect-ratio: 16 / 9;  /* 设置比例，现代浏览器支持 */*/
+  aspect-ratio: 16 / 6;  /* 设置比例，现代浏览器支持 */
 }
 
 .small-text {
