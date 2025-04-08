@@ -6,7 +6,9 @@ body {
   background-image: url("../photo/logo-a.png");
   background-size: cover;
   color: #fffff;
-  height:520px;
+/*  height:520px;*/
+  max-width: 100%;
+  height: auto;
 }
 
 .small-text {
