@@ -7,8 +7,9 @@ body {
   background-size: cover;
   color: #fffff;
 /*  height:520px;*/
-  max-width: 100%;
+  width: 100%;
   height: auto;
+  position: relative;
 }
 
 .small-text {
