@@ -9,7 +9,12 @@ body {
 /*  height:520px;*/
   width: 100%;
   height: auto;
-  position: relative;
+/*  position: relative;*/
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+/*  height: auto;*/
+  aspect-ratio: 16 / 9;  /* 设置比例，现代浏览器支持 */
 }
 
 .small-text {
