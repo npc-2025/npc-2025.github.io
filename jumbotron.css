@@ -12,3 +12,6 @@ body {
 .small-text {
   font-size: 0.85rem;
 }
+.column p {
+  text-align: justify; /* 两端对齐段落文字 */
+}
